@@ -1,7 +1,7 @@
 # 👋 Hi , I am Iheb
 # Cybersecurity Professional , Ethical hacker
 
-🌐 [LinkedIn](https://linkedin.com/in/iheb-aouini) | 📧 ihebaouini7@gmail.com | 📞 +216-26-061-733  
+🌐 [LinkedIn](https://linkedin.com/in/iheb-aouini) | 📧 ihebaouini7@gmail.com 
 🌟 [GitHub](https://github.com/Iheb-Aouini)  
 
 ---
