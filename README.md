@@ -13,6 +13,17 @@ My expertise lies in combining technical knowledge and practical skills to secur
 
 ## 🛠️ **Technical Projects**
 
+### 🚨 **Web Threat Detection System**  
+- Built a system using Splunk as SIEM to detect and prevent web threats in real time.  
+- Deployed a Web Application Firewall (WAF) with ModSecurity on endpoints.  
+- Achieved **95% threat identification** before incident escalation.
+- [part_of_presentation.pdf](https://github.com/user-attachments/files/17873946/1694283784715.pdf)
+
+
+### 📡 **Wi-Fi Area Jammer**
+- Automated Wi-Fi signal interruption using Bash and the aircrack-ng suite on Kali Linux.  
+- Developed a scalable shell script for testing network vulnerabilities.  
+
 ### 🔑 **Secure Medical Platform**
 - Developed a telemedicine platform ensuring secure patient-doctor interactions, streamlined appointment scheduling, and data management.  
 - **Tech Stack:** Angular, Django, Postgres, Docker, JWT, Keycloak.  
@@ -20,22 +31,16 @@ My expertise lies in combining technical knowledge and practical skills to secur
   - Secure authentication with OAuth2 and Keycloak.  
   - Integrated RESTful APIs for smooth communication between modules.  
 
-### 🚨 **Web Threat Detection System**  
-- Built a system using Splunk as SIEM to detect and prevent web threats in real time.  
-- Deployed a Web Application Firewall (WAF) with ModSecurity on endpoints.  
-- Achieved **95% threat identification** before incident escalation.  
-
-### 📡 **Wi-Fi Area Jammer**
-- Automated Wi-Fi signal interruption using Bash and the aircrack-ng suite on Kali Linux.  
-- Developed a scalable shell script for testing network vulnerabilities.  
+### 📜 **Telephone Ticket Bruteforcer IAT**
+- Created a tool to bruteforce telephone ticket numbers for test purposes.  
+- **Tech Stack:** Bash Scripting , Termux API ,Android
+- 
 
 ### 🎲 **Multiplayer Hangman Game**
 - Designed a client-server game supporting multiple players.  
 - **Tech Stack:** Flask, C, Ngrok.  
 
-### 📜 **SQL Interpreter and Parser**
-- Created a tool to parse and interpret SQL commands.  
-- **Tech Stack:** Bison, Flex, Bash, C.
+
 
 ---
 
@@ -68,7 +73,8 @@ My expertise lies in combining technical knowledge and practical skills to secur
 ---
 
 ## 🏆 **Certifications**
-- Google Cybersecurity Professional  
+- Google Cybersecurity Professional
+- Cisco CyberOps Associate
 - Fortinet NSE 1 & NSE 2  
 - Microsoft Office Specialist: Excel Associate  
 
