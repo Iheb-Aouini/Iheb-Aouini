@@ -1,101 +1,57 @@
-# 👋 Hi , I am Iheb
-# Cybersecurity Professional , Ethical hacker
+---# Iheb Aouini
 
-🌐 [LinkedIn](https://linkedin.com/in/iheb-aouini) | 📧 ihebaouini7@gmail.com 
-🌟 [GitHub](https://github.com/Iheb-Aouini)  
+I break things to understand how they work — then figure out how to stop 
+others from breaking them.
 
----
+Cybersecurity engineer based in Tunisia, currently in Portugal on an Erasmus 
+research internship building an AI-powered autonomous pentesting agent. 
+It uses LLMs and MCP tooling to run recon, exploitation, and reporting 
+on its own. Yes, it's as interesting as it sounds.
 
-## 🚀 **About Me**
-Hi! I'm **Iheb Aouini**, a cybersecurity enthusiast and student specializing in Web and Mobile Application Security. With 3+ years of hands-on experience in penetration testing, Linux system administration, and secure development, I aim to build robust defenses for digital infrastructures.  
-My expertise lies in combining technical knowledge and practical skills to secure networks, applications, and systems.  
-
----
-
-## 🛠️ **Technical Projects**
-
-### 🚨 **Web Threat Detection System**  
-- Built a system using Splunk as SIEM to detect and prevent web threats in real time.  
-- Deployed a Web Application Firewall (WAF) with ModSecurity on endpoints.  
-- Achieved **95% threat identification** before incident escalation.
-- [part_of_presentation.pdf](https://github.com/user-attachments/files/17873946/1694283784715.pdf)
-
-
-### 📡 **Wi-Fi Area Jammer**
-- Automated Wi-Fi signal interruption using Bash and the aircrack-ng suite on Kali Linux.  
-- Developed a scalable shell script for testing network vulnerabilities.  
-
-### 🔑 **Secure Medical Platform**
-- Developed a telemedicine platform ensuring secure patient-doctor interactions, streamlined appointment scheduling, and data management.  
-- **Tech Stack:** Angular, Django, Postgres, Docker, JWT, Keycloak.  
-- **Key Features:**  
-  - Secure authentication with OAuth2 and Keycloak.  
-  - Integrated RESTful APIs for smooth communication between modules.  
-
-### 📜 **Telephone Ticket Bruteforcer IAT**
-- Created a tool to bruteforce telephone ticket numbers for test purposes.  
-- **Tech Stack:** Bash Scripting , Termux API ,Android
-- 
-
-### 🎲 **Multiplayer Hangman Game**
-- Designed a client-server game supporting multiple players.  
-- **Tech Stack:** Flask, C, Ngrok.  
-
-
+My background is mostly offensive — web app audits, mobile traffic 
+interception, network architecture — but I've spent enough time on the 
+defensive side (SIEM, WAF, firewall config) to know both ends of the fight.
 
 ---
 
-## 💼 **Experience**
+## What I'm working on
 
-### **Cybersecurity Analyst Intern**  
-*RAISEGUARD* (Aug 2023 - Sep 2023)  
-- Designed and implemented a web threat prevention system.  
-- Configured real-time WAFs with open-source tools.  
-
-### **Web Developer Intern (PFE)**  
-*XTENDPLEX* (Feb 2023 - Jun 2023)  
-- Delivered a secure medical platform.  
-- Optimized front-end user experiences with RxJS and Bootstrap.
-
-### **RF Intern**  
-*Syscom Lab, ENIT* (Jun 2024 - Aug 2024)  
-- Designed antennas for 4G/Wi-Fi applications.  
-- Developed an **ESP32-based Intrusion Detection System (IDS)** with secure RFID authentication.  
+- **Autonomous Pentest Agent** — MCP + LLM framework integrated with Kali 
+  toolchains. Benchmarking it against PentestGPT and similar tools.
+- **PortSwigger Web Security Academy** — completed the full learning path. 
+  SQLi, XSS, auth flaws, access control, the works.
 
 ---
 
-## 💡 **Key Skills**
-- **Web Security:** OWASP Top 10, Burp Suite, Zap, Nessus.  
-- **System Security:** SIEM (Splunk), WAF, Linux Administration, Vulnerability Management.  
-- **Programming:** Python, Angular, C, Bash, Django, PostgreSQL.  
-- **Networking:** Packet Tracer, Wireshark, Fortinet, Endpoint Security.  
-- **Tools:** Docker, JWT, Keycloak, Kali Linux.  
+## Some things I've built
+
+| Project | What it is |
+|---|---|
+| Intelligent Firewall | nftables + Python/Scapy for Layer 7 DPI across SIP, HTTP, RTP |
+| FortiGate Lab | 3-zone enterprise network (WAN/DMZ/LAN) on VMware |
+| Frida SSL Bypass Lab | SSL pinning bypass on Android apps + Burp traffic analysis |
+| Web Threat Detection | Splunk SIEM + ModSecurity WAF for real-time threat prevention |
+| Secure Medical Platform | Django/Keycloak/JWT telemedicine app with encrypted data storage |
+| CI/CD Security Pipeline | Jenkins + Docker with integrated security checks pre-deployment |
 
 ---
 
-## 🏆 **Certifications**
-- Google Cybersecurity Professional
-- Cisco CyberOps Associate
-- Fortinet NSE 1 & NSE 2  
-- Microsoft Office Specialist: Excel Associate  
+## Skills (the actual ones I use)
+
+**Offensive** — Burp Suite, Metasploit, Frida, Kali Linux, Nmap, OWASP  
+**Defensive** — Splunk, ModSecurity, FortiGate, nftables, Wireshark  
+**Dev** — Python, Django, Bash, PostgreSQL, Docker, REST APIs  
+**Cloud** — AWS (IAM, VPC, EC2), Jenkins, CI/CD  
 
 ---
 
-## 🎯 **Club Activities**
-- Founded **SPARK FST**, a cybersecurity club promoting knowledge sharing.  
-- Presented workshops and organized Capture The Flag (CTF) competitions.  
+## Certs
+
+Cisco CyberOps Associate · Google Cybersecurity Professional  
+Fortinet NSE1 & NSE2 · Cisco CCNA · Oracle Certified DevOps Professional
 
 ---
 
-## 🌟 **Languages**
-- **Arabic:** Native  
-- **English:** Proficient  
-- **French:** Proficient  
+## Find me
 
----
-
-## 🔗 **Contact Me**
-Looking for a dedicated cybersecurity expert? Let’s connect!  
-- **Email:** ihebaouini7@gmail.com  
-- **GitHub:** [github.com/Iheb-Aouini](https://github.com/Iheb-Aouini)  
-- **LinkedIn:** [linkedin.com/in/iheb-aouini](https://linkedin.com/in/iheb-aouini)  
+[LinkedIn](https://linkedin.com/in/iheb-aouini) · ihebaouini7@gmail.com
